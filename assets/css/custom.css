@@ -42,6 +42,18 @@ section {
   width: 600px;
 } */
 
+header {
+  width: 320px !important;
+}
+
+section {
+  width: calc(100% - 340px);
+}
+
+header img {
+  max-width: none !important;
+}
+
 .profile-pic {
   width: 350px !important;     /* increase this */
   height: auto;     /* keeps proportions */
