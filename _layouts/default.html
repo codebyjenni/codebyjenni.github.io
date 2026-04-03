@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>{{ site.title }}</h1>
+
+        {% if site.logo %}
+          <img src="{{ site.logo | relative_url }}" alt="Profile photo" class="profile-pic">
+        {% endif %}
+        
+        <br>
+
+        <p>
+          PhD Candidate<br>
+          INSEAD<br>
+          <a href="mailto:jenni.lee@insead.edu">jenni.lee@insead.edu
+        </p>
+
+        <p>
+          <a href="{{ '/cv.pdf' | relative_url }}">Curriculum Vitae</a> |
+          <a href="https://www.linkedin.com/in/jennifer-lee848">LinkedIn</a> 
+          <!-- <a href="https://scholar.google.com/">Google Scholar</a> -->
+        </p>
+
+        <!-- <p><a href="mailto:test@email.com">test@email.com</a></p> -->
+
+
+      </header>
+
+      <section>
+        {{ content }}
+      </section>
+    </div>
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+  </body>
+</html>

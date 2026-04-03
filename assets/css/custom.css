@@ -1,0 +1,50 @@
+h2 {
+  margin-top: 40px;
+}
+
+.paper p {
+  margin-bottom: 6px;
+}
+
+.paper details {
+  margin-top: 0px;
+}
+
+.paper {
+  margin-bottom: 10px;
+}
+
+.paper a {
+  color: #267CB9;        /* Minimal theme blue */
+  font-weight: 600;
+  text-decoration: none; /* remove underline */
+}
+
+.paper a:hover {
+  text-decoration: underline;
+}
+
+.paper-title {
+  color: #267CB9;
+  font-weight: 600;
+  font-size: 1.05em;
+}
+
+/* .wrapper {
+  width: 900px;
+}
+
+header {
+  width: 300px;
+}
+
+section {
+  width: 600px;
+} */
+
+.profile-pic {
+  width: 350px !important;     /* increase this */
+  height: auto;     /* keeps proportions */
+  margin-bottom: 12px;
+  display: block;
+}
