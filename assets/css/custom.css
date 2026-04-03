@@ -42,10 +42,6 @@ section {
   width: 600px;
 } */
 
-header {
-  background: red;
-}
-
 .profile-pic {
   width: 350px !important;     /* increase this */
   height: auto;     /* keeps proportions */
