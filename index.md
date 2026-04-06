@@ -18,7 +18,7 @@ Evaluating the Construct Validity of Recall Tasks Through Automated Text Analysi
 <details>
   <summary>Collaborators & Overview</summary>
   <em>with Zhen Ge, Shenting Ang, Yejin Park Roberts, Chris Du Plessis, Michael Schaerer, and Stefan Thau</em>
-  <p><strong>Overview:</strong> Our paper develops a diagnostic framework for evaluating the recall prime methodology frequently used in organizational and psychological experiments.</p>
+  <!-- <p><strong>Overview:</strong> Our paper develops a diagnostic framework for evaluating the recall prime methodology frequently used in organizational and psychological experiments.</p> -->
 </details>
 </div>
 
@@ -31,7 +31,7 @@ Unveiling the Unintended Consequences of Using Your Network.<br>
 <details>
   <summary>Collaborators & Overview</summary>
   <em>with Andy Yap</em>
-  <p><strong>Overview:</strong> We examine how network use affects perceptions of merit in the workplace.</p>
+  <!-- <p><strong>Overview:</strong> We examine how network use affects perceptions of merit in the workplace.</p> -->
 </details>
 </div>
 
@@ -43,6 +43,6 @@ Unveiling the Unintended Consequences of Using Your Network.<br>
 <details>
   <summary>Collaborators & Overview</summary>
   <em>with Roderick Swaab</em>
-  <p><strong>Overview:</strong> We investigates how intellectual humility shapes negotiation strategies in integrative negotiation scenarios. We test this in simulated and interactive negotiation settings.</p>
+  <!-- <p><strong>Overview:</strong> We investigates how intellectual humility shapes negotiation strategies in integrative negotiation scenarios. We test this in simulated and interactive negotiation settings.</p> -->
 </details>
 </div>
