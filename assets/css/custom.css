@@ -55,7 +55,7 @@ header img {
 }
 
 .profile-pic {
-  width: 350px !important;     /* increase this */
+  width: 280px !important;     /* increase this */
   height: auto;     /* keeps proportions */
   margin-bottom: 12px;
   display: block;
