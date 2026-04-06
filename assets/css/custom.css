@@ -60,3 +60,24 @@ header img {
   margin-bottom: 12px;
   display: block;
 }
+
+/* Mobile fix */
+@media screen and (max-width: 960px) {
+  header {
+    width: 100% !important;
+  }
+
+  section {
+    width: 100% !important;
+  }
+
+  .profile-pic {
+    width: 220px;
+    max-width: 100%;
+    height: auto;
+  }
+
+  header img {
+    max-width: 100% !important;
+  }
+}
