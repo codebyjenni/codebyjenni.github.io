@@ -26,7 +26,7 @@ Evaluating the Construct Validity of Recall Tasks Through Automated Text Analysi
 <p>
 <span class="paper-title">Network Penalty</span><br>
 Unveiling the Unintended Consequences of Using Your Network.<br>
-<em>Under Review at Journal of Applied Psychology</em>
+<em>Manuscript in Preparation for Submission</em>
 </p>
 <details>
   <summary>Collaborators & Overview</summary>
