@@ -12,37 +12,36 @@ My research focuses on how individuals perceive others and their own behaviors i
 <div class="paper">
 <p>
 <span class="paper-title">Reconstructing Social Power</span><br>
-Evaluating the Construct Validity of Recall Tasks Through Automated Text Analysis and Memory Characteristics.<br>
+with Zhen Ge, Shenting Ang, Yejin Park Roberts, Chris Du Plessis, Michael Schaerer, and Stefan Thau<br>
 <em>Revise & Resubmit at Journal of Applied Psychology</em>
 </p>
-<details>
-  <summary>Collaborators & Overview</summary>
-  <em>with Zhen Ge, Shenting Ang, Yejin Park Roberts, Chris Du Plessis, Michael Schaerer, and Stefan Thau</em>
-  <!-- <p><strong>Overview:</strong> Our paper develops a diagnostic framework for evaluating the recall prime methodology frequently used in organizational and psychological experiments.</p> -->
-</details>
+<!-- <details>
+  <summary>Overview</summary>
+  <p><strong>Overview:</strong> Our paper develops a diagnostic framework for evaluating the recall prime methodology frequently used in organizational and psychological experiments.</p>
+</details> -->
 </div>
 
 <div class="paper">
 <p>
 <span class="paper-title">Network Penalty</span><br>
-Unveiling the Unintended Consequences of Using Your Network.<br>
+with Andy Yap<br>
 <em>Manuscript in Preparation for Submission</em>
 </p>
-<details>
-  <summary>Collaborators & Overview</summary>
-  <em>with Andy Yap</em>
-  <!-- <p><strong>Overview:</strong> We examine how network use affects perceptions of merit in the workplace.</p> -->
-</details>
+<!-- <details>
+  <summary>\Overview</summary>
+  <p><strong>Overview:</strong> We examine how network use affects perceptions of merit in the workplace.</p>
+</details> -->
 </div>
 
 <div class="paper">
 <p>
 <span class="paper-title">Intellectual Humility in Negotiations</span><br>
+with Roderick Swaab<br>
 <em>Data Collection</em>
 </p>
-<details>
-  <summary>Collaborators & Overview</summary>
+<!-- <details>
+  <summary>Overview</summary>
   <em>with Roderick Swaab</em>
-  <!-- <p><strong>Overview:</strong> We investigates how intellectual humility shapes negotiation strategies in integrative negotiation scenarios. We test this in simulated and interactive negotiation settings.</p> -->
-</details>
+  <p><strong>Overview:</strong> We investigates how intellectual humility shapes negotiation strategies in integrative negotiation scenarios. We test this in simulated and interactive negotiation settings.</p>
+</details> -->
 </div>
