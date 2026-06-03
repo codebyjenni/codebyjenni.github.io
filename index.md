@@ -29,7 +29,7 @@ Jennifer Lee & Andy Yap<br>
 </p>
 <details>
   <summary>Overview</summary>
-  <p>We examine why using networks, despite being widely viewed as beneficial for career success, can carry reputational costs. Across four studies, it shows that observers perceive network-based success as less procedurally fair than expertise-based success.</p>
+  <p>We examine why using networks, despite being widely viewed as beneficial for career success, can carry reputational costs. Across four studies, we show that observers perceive network-based success as less procedurally fair than expertise-based success.</p>
 </details>
 </div>
 
