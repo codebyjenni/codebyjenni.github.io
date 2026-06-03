@@ -41,7 +41,6 @@ Jennifer Lee & Roderick Swaab<br>
 </p>
 <details>
   <summary>Overview</summary>
-  <em>with Roderick Swaab</em>
   <p>We examine how intellectual humility helps negotiators create value in mixed-motive negotiations by reducing zero-sum beliefs and increasing cognitive flexibility. Across hypothetical and interactive negotiation studies, we observe whether intellectually humble negotiators rely more on cooperative question-and-answer strategies, rely less on competitive substantiation-and-offer strategies, and how these strategic choices shape negotiation outcomes.</p>
 </details>
 </div>
