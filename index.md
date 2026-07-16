@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## About
-I am pursuing a PhD in Management with a focus on Organizational Behavior at [INSEAD](https://www.insead.edu/about-insead/mission-values-history). I received my BA with honors in Psychology and a minor in Business from [Rice University](https://www.rice.edu/about). 
+I am a PhD Candidate in Management with a focus on Organizational Behavior at [INSEAD](https://www.insead.edu/about-insead/mission-values-history). I received my BA with honors in Psychology and a minor in Business from [Rice University](https://www.rice.edu/about).
 
 My research focuses on how individuals perceive others and their own behaviors in social settings. I aim to understand how human perceptions, social norms, and cognition influence the dynamics of conflict, collaboration, and interpersonal interaction. I employ a variety of methods including quantitative experimental designs, text analysis, archival data analysis, and meta-analysis.
 
